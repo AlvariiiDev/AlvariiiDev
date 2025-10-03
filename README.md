@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o João Alvari
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/>  
-💻 Desenvolvedor **Back-end** com foco em **C#**, **.NET** e **PostgreSQL**.  
+💻 Desenvolvedor Back-end com foco em C#, .NET e PostgreSQL.  
 🔧 Apaixonado por transformar ideias em soluções tecnológicas eficientes e escaláveis.  
 🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
@@ -21,7 +21,6 @@
 🧰 **Ferramentas:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> Visual Studio  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> GitHub  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/> Postman
 
 </div>
 
@@ -42,9 +41,6 @@ Quando não estou codando, estou explorando novas ferramentas, frameworks ou tom
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvariiiDev&show_icons=true&theme=tokyonight&hide_border=false)
-
-<!-- Cobrinha de commits -->
-![GitHub Snake animation](https://raw.githubusercontent.com/AlvariiiDev/AlvariiiDev/output/github-snake-animation.svg)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvariiiDev&layout=compact&theme=tokyonight&hide_border=false)
 
