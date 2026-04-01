@@ -1,8 +1,14 @@
 # 👋 Olá! Eu sou o João Alvari
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30"/>  
-💻 Desenvolvedor Back-end com foco em C#, .NET e PostgreSQL, e desenvolvimento de aplicações nas plataformas Lovable e Bubble.  
-🔧 Apaixonado por transformar ideias em soluções tecnológicas eficientes e escaláveis.  
-🚀 Sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" title="C#"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35" title=".NET Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL"/>
+</p>
+
+💻 **Desenvolvedor Back-end** focado em C#, .NET e PostgreSQL.  
+🫧 Especialista em soluções No-code/Low-code com **Lovable** e **Bubble**.  
+🚀 Transformando ideias em sistemas escaláveis e eficientes.
 
 ---
 
@@ -10,47 +16,40 @@
 
 <div align="center">
 
-💡 **Back-end:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/> 
+### 💡 Back-end & Database
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-⚙️ **Banco de Dados:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
-
-🛠️ **No-code / Low-code:**  
-🫧 Bubble &nbsp;|&nbsp; 🤍 Lovable
-
-🧰 **Ferramentas:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
+### 🛠️ Low-code & Tools
+<img src="https://img.shields.io/badge/Bubble-030303?style=for-the-badge&logo=bubble&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
 ## 🌟 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação, focado em **Back-end**.  
-Com experiência prática em **C#**, **.NET**, **PostgreSQL**, e desenvolvimento nas plataformas **Lovable** e **Bubble**, busco sempre aprimorar minhas habilidades e contribuir para projetos que façam a diferença.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (presencial)**, aprofundando meus conhecimentos para evoluir ainda mais na carreira.  
-Quando não estou codando, estou explorando novas ferramentas, frameworks ou tomando um café enquanto reflito sobre a próxima grande ideia ☕😅
+Sou um desenvolvedor apaixonado por **Back-end** e inovação.  
+Atualmente, curso **Análise e Desenvolvimento de Sistemas**, unindo o rigor acadêmico com a agilidade do desenvolvimento prático em C# e plataformas modernas como Lovable.  
+
+Quando não estou codando, provavelmente estou estudando novos frameworks ou planejando a arquitetura do próximo grande projeto. ☕
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvariiiDev&show_icons=true&theme=tokyonight&hide_border=false)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvariiiDev&layout=compact&theme=tokyonight&hide_border=false)
-
-</div>
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvariiiDev&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvariiiDev&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
 ## 💬 Vamos conversar?
-📫 Me encontre aqui no [GitHub](https://github.com/AlvariiiDev) ou no [LinkedIn](https://www.linkedin.com/in/joao-alvari-bb301b2b9).  
-Se quiser trocar uma ideia sobre **C#**, **.NET**, **PostgreSQL**, **Lovable** ou **Bubble**, é só chegar! 😎
-
----
+<p align="left">
+<a href="https://www.linkedin.com/in/joao-alvari-bb301b2b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:seu-email@dominio.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
 > 💡 "Código limpo é como humor — quando você precisa explicar, não é tão bom assim." – *Martin Fowler*
